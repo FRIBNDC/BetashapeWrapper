@@ -1,5 +1,5 @@
 # BetashapeWrapper 
-A wrapper code to reformat/clean the output file of the Betashape code on an input ENSDF database based on the ENSDF-format standard.
+A wrapper code to reformat/clean the output file of the Betashape code on an input ENSDF dataset based on the ENSDF-format standard.
 
 ## Change history
 
