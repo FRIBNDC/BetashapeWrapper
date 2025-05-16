@@ -3,5 +3,8 @@ A wrapper code to reformat/clean the output file of the Betashape code on an inp
 
 ## Change history
 
+#### 2025-05
+Bug fixes and improvements
+
 #### 2025-04
 Improved rounding of IB and IE values deduced from TI for EC decay
